@@ -1,0 +1,6 @@
+{
+  "name": "Promotes.site",
+  "description": "promotes.site is the targeted content discovery marketplace matching digital creators and brands with independent curators based on shared interests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
